@@ -18,7 +18,6 @@ from DrissionPage import Chromium, ChromiumOptions
 import tempfile
 
 from .browser import get_browser_path
-from ..configs import *
 
 lock = threading.RLock()
 
